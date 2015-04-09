@@ -6,6 +6,7 @@ var nw = new NwBuilder({
     files: [
         '../fontmin-app/**/**',
         '!../fontmin-app/.git/**/**',
+        '!../fontmin-app/dist/**/**',
         '!../fontmin-app/dep/webcomponentsjs/**',
         '!../fontmin-app/node_modules/.bin/**'
     ],
