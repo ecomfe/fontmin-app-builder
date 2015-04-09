@@ -1,0 +1,7 @@
+{
+  "name": "fontmin-app-builder",
+  "private": true,
+  "dependencies": {
+    "node-webkit-builder": "^1.0.11"
+  }
+}
