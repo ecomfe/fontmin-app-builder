@@ -18,7 +18,7 @@ var nw = new NwBuilder({
     cacheDir: './cache',
     buildDir: './build',
     macIcns: '../fontmin-app/fontmin.icns',
-    winIco: '../fontmin-app/fontmin.png',
+    winIco: '../fontmin-app/fontmin.ico',
     platforms: platforms[process.platform]
 });
 
