@@ -3,7 +3,7 @@ var NwBuilder = require('node-webkit-builder');
 
 var platforms = {
     'win32': ['win32', 'win64'],
-    'darwin': ['osx32', 'osx64']
+    'darwin': ['osx64']
 };
 
 var nw = new NwBuilder({
